@@ -8,3 +8,6 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [x] nice
+- [x] do this part
+- [ ] empty item
